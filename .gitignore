@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+data/raw_indicators/
+**/Metadata_*.csv
