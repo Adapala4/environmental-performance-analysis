@@ -4,6 +4,10 @@ A cross-country data science project exploring the relationship between socioeco
 
 The project combines exploratory data analysis, statistical analysis, machine learning, predictive modeling, and an interactive Streamlit dashboard.
 
+## Live Dashboard
+
+[Open the interactive Streamlit dashboard](https://global-epi-insights.streamlit.app)
+
 ## Project Overview
 
 This project investigates how socioeconomic development is associated with environmental performance across countries.
